@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    font-size: 25px;
+    font-family: 'Merriweather Sans', sans-serif;
+   padding-top: 200px;
+
+    padding-left: 20px  ;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  color: #ff4b3e
+}
+h3{
+    font-size: 35px;
+    font-family: 'Great Vibes', cursive;
+    padding-top: 30px;
+    padding-left: 20px  ;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  color: #582707;
+    
+}
+a{
+    text-decoration: none;
+    font-family: 'Merriweather Sans', sans-serif;
+    position: relative;
+}
+div{
+    background-color: #972d07;
+    height: 400px;
+}
+form{
+    padding-top: 20px;
+}
+.name{
+    color: #ffa568;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.dp{
+    position: fixed;
+    left: 40px;
+    top: 20px;
+    size: 150px ;
+    width: 110px;
+}
+.instagram{
+    position: absolute;
+   padding-right: 10px;
+    width: 26px;
+    right: 100%;
+}
+.facebook{
+    position: absolute;
+    padding-right: 10px;
+
+    width: 26px;
+    right: 100%;
+}
+.linkedin{
+    position: absolute;
+    margin-right: 10px;
+    width: 26px;
+    right: 100%;
+}
+.socials{
+    position: relative;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #ffe668;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
